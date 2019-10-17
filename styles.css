@@ -1,0 +1,42 @@
+/* add your CSS here */
+body {
+    border: 1px solid lightgray;
+    padding: 5px;
+    width: 312px;
+    box-shadow: 10px 10px 5px 0px rgb(20,20,20, 0.10);
+}
+
+.animalname {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font: bold 15pt serif;
+    padding: 6px;
+}
+
+.pic {
+    padding: 6px;
+}
+
+.allfacts {
+    font: 10pt serif;
+    border: 1px solid lightgray;
+    padding: 1em;
+    margin: 5px;
+}
+
+.intfact {
+    font-style: italic;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
+}
